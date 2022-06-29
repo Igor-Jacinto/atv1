@@ -1,0 +1,19 @@
+.principal {
+background-color: #FFF;
+border-color: darkgray;
+margin-left: 30px; 
+width: 400px;
+height: 100px;
+margin-top: 40px;
+color: #000;
+}
+
+.cont{
+    margin-left: 200px;   
+}
+
+.principal:hover{
+    background-color: #0085A1;
+    color: #FFF;
+    background-color: 0085A1;
+}
